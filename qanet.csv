@@ -1,0 +1,5 @@
+context;question;answer_possible;answer
+A boy is a male, young human; Is a boy young?;1;Yes
+A boy is a male, young human; What is a boy?;1;A male, young human
+A boy is a male, young human; What is a girl?;0; 
+A girl is a female, young human;Is a girl young?;1;Yes
