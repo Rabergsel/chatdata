@@ -1,5 +1,8 @@
 context;question;answer_possible;answer
 A boy is a male, young human; Is a boy young?;1;Yes
 A boy is a male, young human; What is a boy?;1;A male, young human
-A boy is a male, young human; What is a girl?;0; 
+A boy is a male, young human; What is a girl?;0;none
 A girl is a female, young human;Is a girl young?;1;Yes
+When a minute pointer on the clock shows towards 12, this means a full hour has passed; What pointer has to show to 12 when a full hour has passed?;1;The minute pointer
+A clock shows 12 numbers on it; How many numbers does a clock have on it?;1;twelve
+A clock shows 12 numbers on it; How late is it?;0;none
